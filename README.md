@@ -53,6 +53,8 @@ java -jar lib/junit-platform-console-standalone-1.10.2.jar --classpath bin --sca
 
 ---
 ## 4  Result of Exercise Test
+
+### Test : BookingServiceTest.bookRoomTest_ExerciseTestCase()
 ![img.png](img.png)
 
 ## 5  Design Questions (Bonus)
